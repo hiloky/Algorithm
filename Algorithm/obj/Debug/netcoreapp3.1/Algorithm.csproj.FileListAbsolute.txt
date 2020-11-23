@@ -1,0 +1,13 @@
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+Z:\github\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+Z:\github\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+Z:\github\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+Z:\github\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Z:\github\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\github\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CopyComplete
